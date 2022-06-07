@@ -16,11 +16,7 @@ class HomeScreen extends StatelessWidget {
           padding: EdgeInsets.all(8.0),
         ),
         Text(
-          'Nama: Arfan Jauhari',
-          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 28),
-        ),
-        Text(
-          'NIM: 190103180',
+          'Tampilan Awal',
           style: TextStyle(fontWeight: FontWeight.bold, fontSize: 28),
         ),
         Container(
